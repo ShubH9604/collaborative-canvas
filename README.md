@@ -1,7 +1,7 @@
 ## ✨ Features
 
 - **Real-time Collaborative Drawing**  
-  Multiple users can draw simultaneously on a shared canvas with live synchronization using WebSockets.
+  Multiple users can draw simultaneously on a shared canvas with live synchronization using WebSockets. 
 
 - **Server-Authoritative State Management**  
   All drawing operations are validated, stored, and broadcast by the server to ensure consistent canvas state across all connected clients.
