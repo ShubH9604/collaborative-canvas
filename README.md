@@ -30,13 +30,4 @@
 
 ---
 
-## ⏱️ Time Spent
 
-Approximately **20 hours** were spent on this project, including:
-
-- Designing the real-time WebSocket communication architecture  
-- Implementing efficient, raw canvas drawing operations  
-- Building a server-authoritative operation log for undo and redo functionality  
-- Handling concurrent user interactions and conflict resolution  
-- Debugging synchronization issues and edge cases  
-- Refining code structure and writing project documentation
